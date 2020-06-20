@@ -1,0 +1,26 @@
+.wrapper {
+    margin: 2rem;
+    
+        .button{
+            margin: 0;
+            margin-bottom: 2rem;
+            padding: 0.5rem;
+            border-radius: 10px;
+        }
+
+        .contentModal{
+            display: none;
+            justify-content: center;
+            align-items: center;
+            width: 800px;
+            height: 400px;
+            background-color: rgb(129, 38, 233);
+            color:#fafafa;
+            font-size: 3rem;
+            font-weight: bold; 
+        }
+        
+        .showModal{
+            display: flex;
+        }
+}

@@ -1,0 +1,25 @@
+.wrapper {
+  margin: 2rem;
+}
+.wrapper .button {
+  margin: 0;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+.wrapper .contentModal {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  height: 400px;
+  background-color: #8126e9;
+  color: #fafafa;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.wrapper .showModal {
+  display: flex;
+}
+
+/*# sourceMappingURL=styles.css.map */
