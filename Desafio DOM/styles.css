@@ -1,0 +1,23 @@
+.videoExercise{
+    margin-top: 15px;       
+}
+
+.videoExercise .inputTextVideo{
+    /* width: 200px;
+    height: 25px; */
+    /* border: solid rgb(182, 178, 178); */
+    border-width: 2px;
+    border-radius: 5px;
+    
+}
+
+.videoExercise #button{
+    /* width: 200px;
+    height: 25px; */
+    border-width: 2px;
+}
+
+.shadow{
+    box-shadow: 0 2px 15px 2px #666;
+}
+
